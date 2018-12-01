@@ -17,7 +17,9 @@
     "cordova": {
         "plugins": {
             "cordova-plugin-whitelist": {},
-            "cordova-plugin-test-otakeys": {}
+            "cordova-plugin-test-otakeys": {
+                "ANDROID_SUPPORT_V4_VERSION": "27.+"
+            }
         },
         "platforms": [
             "android"
