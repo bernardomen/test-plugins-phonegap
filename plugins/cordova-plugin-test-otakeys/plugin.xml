@@ -26,6 +26,5 @@
     <framework src="src/android/Otakeys.gradle" custom="true" type="gradleReference"/>
     <framework src="com.android.support:support-v4:24.1.1+"/>
     <lib-file src="src/android/otakeys-sdk-3.10.1.aar"/>
-    <preference name="ANDROID_SUPPORT_V4_VERSION" default="27.+"/>
   </platform>
 </plugin>
