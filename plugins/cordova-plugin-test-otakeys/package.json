@@ -1,0 +1,45 @@
+{
+  "_from": "git+https://github.com/mlourenco/cordova-plugin-test-otakeys.git",
+  "_id": "cordova-plugin-test-otakeys@0.0.1",
+  "_inBundle": false,
+  "_location": "/cordova-plugin-test-otakeys",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mlourenco/cordova-plugin-test-otakeys",
+    "rawSpec": "https://github.com/mlourenco/cordova-plugin-test-otakeys",
+    "saveSpec": "git+https://github.com/mlourenco/cordova-plugin-test-otakeys.git",
+    "fetchSpec": "https://github.com/mlourenco/cordova-plugin-test-otakeys.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mlourenco/cordova-plugin-test-otakeys.git#82a238706659e04960a120e755436e14bc575850",
+  "_spec": "https://github.com/mlourenco/cordova-plugin-test-otakeys",
+  "_where": "/Users/bernardomendonca/labs/test-plugins-phonegap",
+  "author": {
+    "name": "Mobiag"
+  },
+  "bugs": {
+    "url": "https://github.com/mlourenco/cordova-plugin-test-otakeys/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-test-otakeys",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "OtaKeys SDK integration",
+  "homepage": "https://github.com/mlourenco/cordova-plugin-test-otakeys#readme",
+  "license": "MIT",
+  "name": "cordova-plugin-test-otakeys",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlourenco/cordova-plugin-test-otakeys.git"
+  },
+  "version": "0.0.1"
+}

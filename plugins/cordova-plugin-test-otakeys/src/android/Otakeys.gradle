@@ -1,0 +1,15 @@
+dependencies {
+  compile(group: 'com.otakeys.sdk', name: 'otakeys-sdk', version: '3.10.1', ext: 'aar')
+}
+repositories{
+    jcenter()
+    flatDir{
+        dirs 'libs'
+    }
+}
+android {
+    packagingOptions {
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+    }
+}

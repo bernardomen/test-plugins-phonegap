@@ -6,5 +6,13 @@
     },
     "is_top_level": true,
     "variables": {}
+  },
+  "cordova-plugin-test-otakeys": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/mlourenco/cordova-plugin-test-otakeys"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }
