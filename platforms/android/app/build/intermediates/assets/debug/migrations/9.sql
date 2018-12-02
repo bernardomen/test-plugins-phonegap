@@ -1,0 +1,2 @@
+ALTER TABLE Syntheses ADD COLUMN Key INTEGER;
+

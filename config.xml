@@ -23,8 +23,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <engine name="android" spec="~7.1.4" />
-    <plugin name="cordova-plugin-test-otakeys" spec="https://github.com/mlourenco/cordova-plugin-test-otakeys">
-        <variable name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
-    </plugin>
+    <plugin name="com.example.hello" spec="../cordova-plugin-hello" />
+    <engine name="android" spec="^7.1.4" />
 </widget>

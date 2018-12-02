@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bernardomendonca/labs/test-plugins-phonegap/platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/bernardomendonca/.gradle/caches/transforms-1/files-1.1/otakeys-sdk-3.10.1.aar/c83585f56da3c344bcd081694d727e2e/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,195,265,331,405,473,535,593,664,732",
+                        "endColumns": "73,65,69,65,73,67,61,57,70,67,57",
+                        "endOffsets": "124,190,260,326,400,468,530,588,659,727,785"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,12,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,195,265,331,405,473,599,700,830,898",
+                        "endColumns": "73,65,69,65,73,67,61,57,70,67,57",
+                        "endOffsets": "124,190,260,326,400,468,530,652,766,893,951"
+                    }
+                },
+                {
+                    "source": "/Users/bernardomendonca/labs/test-plugins-phonegap/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,55,98",
+                        "endColumns": "63,42,58",
+                        "endOffsets": "216,93,152"
+                    },
+                    "to": {
+                        "startLines": "9,11,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "535,657,771",
+                        "endColumns": "63,42,58",
+                        "endOffsets": "594,695,825"
+                    }
+                }
+            ]
+        }
+    ]
+}

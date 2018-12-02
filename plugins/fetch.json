@@ -7,10 +7,10 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-plugin-test-otakeys": {
+  "com.example.hello": {
     "source": {
-      "type": "registry",
-      "id": "https://github.com/mlourenco/cordova-plugin-test-otakeys"
+      "type": "local",
+      "path": "/Users/bernardomendonca/labs/test-plugins-phonegap/node_modules/cordova-plugin-hello"
     },
     "is_top_level": true,
     "variables": {}

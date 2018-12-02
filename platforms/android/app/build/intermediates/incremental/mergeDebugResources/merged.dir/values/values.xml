@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="default_ble_timeout_connect_time" type="integer">1</item>
+    <item name="default_ble_timeout_time" type="integer">2</item>
+    <item name="default_gps_recurrency_time" type="integer">60</item>
+    <item name="default_inactivity_time" type="integer">10</item>
+    <item name="default_scan_distance_from_car" type="integer">100</item>
+    <item name="default_scan_interval_time" type="integer">2</item>
+    <item name="default_scanner_time" type="integer">5</item>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="aiddescription">OTAkeysCardlet</string>
+    <string name="app_name">Hello</string>
+    <string name="foreground_service_started">Service started</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="sdk_version" translatable="false">3.10.1</string>
+    <string name="servicedesc">OTAkeysNFCService</string>
+</resources>

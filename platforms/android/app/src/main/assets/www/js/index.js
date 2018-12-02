@@ -27,6 +27,15 @@ var app = {
     // Bind any cordova events here. Common events are:
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
+	var success = function(message) {
+        alert(message);
+    }
+
+    var failure = function() {
+        alert("Error calling Hello Plugin");
+    }
+
+    hello.test("World", success, failure);
         this.receivedEvent('deviceready');
     },
 
