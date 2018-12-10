@@ -16,7 +16,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/mlourenco/cordova-plugin-test-otakeys.git#2c21148fa316ee250e0448538d2b55067b65dcdf",
+  "_resolved": "git+https://github.com/mlourenco/cordova-plugin-test-otakeys.git#5b0a4a6638a4c36004e3171a16429af71024d50d",
   "_spec": "https://github.com/mlourenco/cordova-plugin-test-otakeys.git",
   "_where": "/Users/bernardomendonca/labs/test-plugins-phonegap",
   "author": {
